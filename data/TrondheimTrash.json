@@ -1,0 +1,185 @@
+{
+    "@context": "",
+    "@graph": [
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408173300",
+            "about": {
+                "rdfs:label": "Litter",
+                "@id": "https://www.wikidata.org/wiki/Q1780867"
+            },
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:33:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczPttSt6GNq8OhwYXVpaEeAmp8OxSLPyplisOBoCL-Ojp3mrmYSUOL3jZt0xHkJ0-39w9Ivq4l5JMK6Ykkwz3xilQeO5QiBPFmNlc_bMo3oS9FGbVl0s2lRUEwQJT13JO98D2uL1GrpoqnSZEEe1czM9=w1225-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408172300",
+            "about": {
+                "rdfs:label": "Litter",
+                "@id": "https://www.wikidata.org/wiki/Q1780867"
+            },
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:23:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczMpS41sXj7M0ZXBcCiWfEvovMYzKCwjEuNgKDUbju9t8CHgUWlSzvhgGAVyzhaAvJc2YHQnKogi10RrWwYDIB-lalgk4sd_XAa9AfcJsxO0Gfn6J_wmWtDz1nB75q88o20lg5RjGfJR-AqTRioXT0dd=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408172301",
+            "about": {
+                "rdfs:label": "Litter",
+                "@id": "https://www.wikidata.org/wiki/Q1780867"
+            },
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:23:01",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczMbxp417aeGhhLRaaWyymOIXo7OkuHjrXa50Hfo68gxVudM0_sEtjL8dIvk8fhtpQd1FeuEhbDDsD0mQNbu7vAIhTiRbu_6ilgk3Ogz_xLRqWGgDZZCFNuZ3-hSxmAZjoQOsNGWNVjBXxerdxlka1h-=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171600",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                },
+                {
+                    "rdfs:label": "Cardboard",
+                    "@id": "https://www.wikidata.org/wiki/Q7463524"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:16:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczOi6fYzcSxlSOnNN-CRs4TOXcAWjB0unhNjULoPhsyuQHatt3KEwhi0L_fSxS4xYGn0JXPuRkqHYzGma6lswh7TVx4jL8iOEN3sBb7qIrVMG9GQZd3RgTJJtXKi6vOCbR46e3mhwZOHkmmrAspaRyfd=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171601",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                },
+                {
+                    "rdfs:label": "Cardboard",
+                    "@id": "https://www.wikidata.org/wiki/Q7463524"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:16:01",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczNu-TrcNR5mVNn-xuy19tJFpKPpkJSbjfPE_rvU35HS8t6U3GIu4xT64yPYEp4d4Tu34ItpEe_1LvOZpXOmI3wd0h0LtJD8xqszkZg5vdiY4KGmzv_lZZ_Fmhf3L3oQOMuh5UcI8o0f01bDmIwmkigk=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171100",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                },
+                {
+                    "rdfs:label": "Plastic",
+                    "@id": "https://www.wikidata.org/wiki/Q11474"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:11:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczPoeSFSEHGJLNIoUdUqkQM8SC1uGQti6JusNpX03bn7sol8bjZhxjjsz1UUCQEXek4lc9U_Z_TUP_dxYJ5YWJGKjggYCza5uFFg35U5_PAICANU1SY4eJDP6y5BcDYNPlFAO_4NSHMhbu2tl3WmI7Da=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171101",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:11:01",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczP6miLH6G35G_GiRoEFzYTHoE9lSXQ2URvCMIWGV_YOtToB4suQ234UDsIciRDKpfKj2DkmpszaZR7Fku_DbAkUFneDkkZbqSbAAy4BQm2kawTT7Hqsmc0d9rcWxlWL1hQ5LSNHgXD4wsUXHhwx861F=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171000",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:10:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczPLHP_A3m0KZnLAAcsP8tOyHWgOtiLppwBMxTDOjZF6ZqErxJdcTKI5JlIERiskslh4oOxKg_Ux3yDAgnCljqfo4XK_fkWPqGaIqULaRbk5af0aj-Hz3FqHMuC9UGCvoX-TPXVRrN9Koh5b122G-18E=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408171001",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                },
+                {
+                    "rdfs:label": "PowerCord",
+                    "@id": "https://www.wikidata.org/wiki/Q382292"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:10:01",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczMxgXOIY5o1qdQENB7bNyNQFRU0SZHPforsICZT4wZDJ5tvHDrxBrMnLfNP7OtOz4XS0fCEjDqX41btpXV1Od3DUcnBmxaiOnxnxrUvGwlB-BQZ9I89J4EQWZqS5YHtR4ODzSK7b13HnFwqV41eDkdB=w689-h919-s-no-gm?authuser=0"
+        },
+        {
+            "@type": "schema:Photograph",
+            "@id": "https://w3id.org/trdenv/photo#20240408170800",
+            "about": [
+                {
+                    "rdfs:label": "Litter",
+                    "@id": "https://www.wikidata.org/wiki/Q1780867"
+                }
+            ],
+            "locationCreated": {
+                "@type": "Place",
+                "latitude": 63.440700,
+                "longitude": 10.177900
+            },
+            "dateCreated": "2024-04-08 17:08:00",
+            "url": "https://lh3.googleusercontent.com/pw/AP1GczPYT3M_eYlca7u6Ul99dIZoYPFMITPlql_k3yZWpnTPVkktD8ZfEq254e9iRABQOROlcyDuWoJ2raRFOEHmUBFXs5alwnb5T0MFba9vvKXrQQ99OrdoWdFpv-zZVqnWam4WUO7l86pAhPX5RtbRnAG2=w1225-h919-s-no-gm?authuser=0"
+        }
+    ]
+}
