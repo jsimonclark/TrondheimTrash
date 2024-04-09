@@ -9,7 +9,7 @@ def parse_date(date):
 # Function to plot the cumulative sum of Mass
 def plot_cumulative_mass(df):
     df['Date'] = df['Date / YYYY-MM-DD'].apply(parse_date)
-    df['Cumulative Mass'] = df[' Mass / kg'].cumsum()
+    df['Cumulative Mass'] = df['Mass / kg'].cumsum()
     fig = px.line(df, x='Date', y='Cumulative Mass', title='Cumulative Sum of Mass Over Time')
     st.plotly_chart(fig)
 
@@ -18,8 +18,8 @@ def main():
     st.title('Cumulative Sum of Mass')
     
     # Read data from CSV file
-    url = 'https://raw.githubusercontent.com/jsimonclark/TrondheimTrash/main/data/MassData.csv'
-    df = pd.read_csv(url)
+    url = 'https://raw.githubusercontent.com/jsimonclark/TrondheimTrash/main/data/MassData.tsv'
+    df = pd.read_csv(url, delimiter='\t')
     
     # Display raw data
     st.subheader('Raw Data')
