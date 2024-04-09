@@ -19,7 +19,7 @@ def main():
     
     # Read data from CSV file
     url = 'https://raw.githubusercontent.com/jsimonclark/TrondheimTrash/main/data/MassData.tsv'
-    df = pd.read_csv(url, delimiter='\t')
+    df = pd.read_csv(url, sep='\s{3,}', engine='python') 
     
     # Display raw data
     st.subheader('Raw Data')
